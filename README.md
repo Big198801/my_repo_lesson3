@@ -3,3 +3,4 @@
 **repo was create on 25 of november**
 eng test in browser
 **изучаем удаленные репозитории**
+** add English text local**
