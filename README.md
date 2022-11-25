@@ -12,3 +12,5 @@
 
 
 ![что то на фото](1.JPG)
+
+...soon here will be some text...
