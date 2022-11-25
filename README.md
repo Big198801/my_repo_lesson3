@@ -1,6 +1,9 @@
 # my_repo_lesson3
 
 **repo was create on 25 of november**
-eng test in browser
+
+**eng test in browser**
+
 **изучаем удаленные репозитории**
-** add English text local**
+
+**add English text local**
